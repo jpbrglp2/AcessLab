@@ -55,6 +55,12 @@ O projeto segue uma organização baseada no padrão MVC (Model-View-Controller)
 
 ---
 
+## Equipe
+
+João Pedro braga Lopes, Caio Emanuel Leitão Feitosa, Fabíola Medeiros Bezerra, Ana Clara Lima Alves, Marcos Jean Pinho da Silva
+
+---
+
 ## 📜 Licença
 
 Projeto acadêmico desenvolvido para fins educacionais.
