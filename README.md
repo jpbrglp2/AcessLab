@@ -57,11 +57,11 @@ O projeto segue uma organização baseada no padrão MVC (Model-View-Controller)
 
 ## Equipe
 
--João Pedro Braga Lopes
--Caio Emanuel Leitão Feitosa
--Fabíola Medeiros Bezerra
--Ana Clara Lima Alves
--Marcos Jean Pinho da Silva
+- João Pedro Braga Lopes
+- Caio Emanuel Leitão Feitosa
+- Fabíola Medeiros Bezerra
+- Ana Clara Lima Alves
+- Marcos Jean Pinho da Silva
 
 ---
 
